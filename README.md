@@ -16,4 +16,13 @@ Application that stores all recipes in one place. Multi-user web service with Sp
 ## Illustrations
 
 ### Register user
-![](screenshot/register.png)
+![](screenshot/createUser.png)
+
+### Create new recipe
+![](screenshot/createRecipe.png)
+
+### Get recipy by Id
+![](screenshot/getRecipe.png)
+
+### Delete recipe
+![](screenshot/deleteRecipe.png)

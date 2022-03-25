@@ -2,7 +2,7 @@
 Restful Api Recipe - JetBrains Academy Project.
 
 ## About
-Application that uses the basics of user authentication and authorization, know how to register security events, and get acquainted with various requirements, such as modern information security standards for web applications. Logging in console and persistance events in database.
+Application that stores all recipes in one place. Multi-user web service with Spring Boot that allows storing, retrieving, updating, and deleting recipes.
 
 ## Tech
 - Java
